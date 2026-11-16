@@ -101,8 +101,8 @@ To call it yourself, say "use sound-human on this" and paste your text. You get 
 
 ## How it differs from the original
 
-- Every rewrite comes out in Australian English: -ise endings, colour, organisation, programme. The original has no spelling rule.
-- It checks 42 patterns. The version of the original it was built from had 25.
+- Every rewrite comes out in Australian English: -ise endings, colour, organisation, programme. The version of the original it was built from set no spelling.
+- It checks 42 patterns. That version had 25.
 - It adds a quick-reference list of words and phrases to flag on sight, and notes on how the giveaways differ from one AI model to the next.
 - It has its own name and version number. Neither tracks the original, which has had releases since this copy branched off.
 
